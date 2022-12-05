@@ -58,10 +58,10 @@ sudo apt install pkg-config curl git build-essential libssl-dev
 * **Create a local copy** of github repository with this command:
 
 ```
-git clone --branch v0.4.0 https://github.com/eqlabs/pathfinder.git
+git clone --branch v0.4.2 https://github.com/eqlabs/pathfinder.git
 ```
 
-> If necessary replace **“v4.0”** _with newer version if that exists. You can check_ [_**here**_](https://github.com/eqlabs/pathfinder/tags)_**.**_
+> If necessary replace **“v4.2”** _with newer version if that exists. You can check_ [_**here**_](https://github.com/eqlabs/pathfinder/tags)_**.**_
 
 ## Execute your node with docker <a href="#6eb5" id="6eb5"></a>
 
